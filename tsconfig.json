@@ -14,7 +14,13 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "angular-gradient-progressbar": [
+        "dist/angular-gradient-progressbar/angular-gradient-progressbar",
+        "dist/angular-gradient-progressbar"
+      ]
+    }
   },
   "angularCompilerOptions": {
     "fullTemplateTypeCheck": true,
